@@ -89,7 +89,7 @@ st.markdown(
     <style>
     .chat-user   { background:#e8f0fe; border-radius:12px; padding:12px 16px; margin:4px 0; }
     .chat-assist { background:#f8f9fa; border-radius:12px; padding:12px 16px; margin:4px 0; }
-    .source-card { background:#fff8e1; border-left:4px solid #f9a825;
+    .source-card { background:##262730; border-left:4px solid #f9a825;
                    border-radius:4px; padding:8px 12px; margin:4px 0; font-size:.85rem; }
     .metric-card { background:#e3f2fd; border-radius:8px; padding:10px; text-align:center; }
     .status-ok   { color:#2e7d32; font-weight:600; }
